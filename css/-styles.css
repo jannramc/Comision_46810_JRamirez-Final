@@ -373,11 +373,19 @@ font-family: 'Ubuntu', sans-serif;
   margin: 1rem;
 }
 
+.text-mapa-sitio {
+  text-align: center;
+  font-size: 39.5px;
+  color: #4242f4;
+  border: 4px solid #fff;
+  padding: 1rem;
+  margin: 3 rem auto;
+}
+
 .text-contacto1 {
   color: #4242f4;
   border: 4px solid #fff;
   padding: 30px 70px;
-  width: fit-content;
   margin: 3 rem auto;
   text-align: center;
   font-size: 34px;
