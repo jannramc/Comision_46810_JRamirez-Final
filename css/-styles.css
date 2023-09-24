@@ -286,10 +286,6 @@ hr {
   justify-content:space-around;
  }
 
-/*footer nav h4 {
-  text-align: left;
-  margin: 0;
-}*/
 
 #titulo {
   display:flex;
@@ -313,6 +309,16 @@ hr {
   font-family: 'Ubuntu', sans-serif;
 }
 
+.mapa-sitio {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+.lista-mapa-sitio
+{
+  list-style: none;
+  align-items:normal;
+  text-decoration: underline;
+}
 
 .redes, #redes{
 text-align: right;
